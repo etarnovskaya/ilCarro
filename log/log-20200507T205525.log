@@ -1,0 +1,2 @@
+20:55:41.910 [Test worker] INFO  com.qa.ilCarro.tests.TestBase - Start test registrationFromHeader with parameters: []
+20:55:44.971 [Test worker] INFO  com.qa.ilCarro.tests.TestBase - Stop test registrationFromHeader

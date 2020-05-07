@@ -1,0 +1,2 @@
+19:45:22.093 [Test worker] INFO  com.qa.ilCarro.tests.TestBase - Start test isSiteOpenedOnSearhPage with parameters: []
+19:45:22.282 [Test worker] INFO  com.qa.ilCarro.tests.TestBase - Stop test isSiteOpenedOnSearhPage
